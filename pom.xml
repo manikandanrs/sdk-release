@@ -20,10 +20,9 @@
     <packaging>pom</packaging>
 
     <scm>
-        <connection>scm:git:git@github.com/manikandanrs/sdk-release.git</connection>
-        <developerConnection>scm:git:git@github.com/manikandanrs/sdk-release.git</developerConnection>
+        <connection>scm:git:git://github.com/manikandanrs/sdk-release.git</connection>
+        <developerConnection>scm:git:git://github.com/manikandanrs/sdk-release.git</developerConnection>
         <url>https://github.com/manikandanrs/sdk-release.git</url>
-        <tag>1.0</tag>
     </scm>
 
 </project>
