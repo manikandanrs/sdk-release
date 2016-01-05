@@ -4,7 +4,7 @@
 
     <groupId>com.aws.java.sdk</groupId>
     <artifactId>sdk-release</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <modules>
         <module>core-module-1</module>
         <module>core-module-2</module>
