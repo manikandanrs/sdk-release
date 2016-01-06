@@ -4,7 +4,7 @@
 
     <groupId>com.aws.java.sdk</groupId>
     <artifactId>sdk-release</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <modules>
         <module>core-module-1</module>
         <module>core-module-2</module>
@@ -21,7 +21,7 @@
         <connection>scm:git:git@github.com/manikandanrs/sdk-release.git</connection>
         <developerConnection>scm:git:git@github.com:manikandanrs/sdk-release.git</developerConnection>
         <url>https://github.com/manikandanrs/sdk-release.git</url>
-      <tag>aws-java-sdk-1.2</tag>
+      <tag>aws-sdk-java-release-1.2</tag>
     </scm>
 
     <distributionManagement>
