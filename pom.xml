@@ -21,7 +21,7 @@
         <connection>scm:git:git@github.com/manikandanrs/sdk-release.git</connection>
         <developerConnection>scm:git:git@github.com/manikandanrs/sdk-release.git</developerConnection>
         <url>https://github.com/manikandanrs/sdk-release.git</url>
-      <tag>aws-java-sdk-1.1</tag>
+      <tag>aws-java-sdk-1.2</tag>
   </scm>
 
 </project>
