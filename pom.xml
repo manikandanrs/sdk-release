@@ -31,4 +31,15 @@
         </repository>
     </distributionManagement>
 
+    <build>
+        <pluginManagement>
+            <plugins>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.5</version>
+            </plugins>
+        </pluginManagement>
+    </build>
+    
+
 </project>
